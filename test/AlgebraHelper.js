@@ -1,5 +1,5 @@
 const { ethers, network } = require('hardhat');
-const { expect } = require('@1inch/solidity-utils');
+const { expect } = require('@deta/solidity-utils');
 
 describe('AlgebraHelper', function () {
     before(async function () {
